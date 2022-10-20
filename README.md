@@ -1,4 +1,4 @@
-# The Road
+# The Trip Master
 
 Fully responsive tours website template named The Road. Created using html, css and javascript.
 
